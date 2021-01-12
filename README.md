@@ -11,7 +11,7 @@ For the moment, video stream is only available on x86_64 and armv7l (Raspberry) 
 Install via the bundled [Plugin Manager](https://plugins.octoprint.org/help/installation/)
 or manually using this URL:
 
-    https://github.com/Plabric/Plabric/archive/master.zip
+    https://github.com/Plabric/Octoprint-Plabric/archive/master.zip
 
 Once the plugin is installed, follow the steps provided by te plugin for connect with your Plabric account.
 
